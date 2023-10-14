@@ -1,5 +1,5 @@
-	Hi, my name is JustGod, I'm 24 years old 
+	Hi, my name is JustGod, I'm 25 years old 
  
-- 🔭 I’m currently working on ***Personal projects***
-- 🌱 I’m currently learning ***better code practice***
+- 🔭 I’m currently student at [***Holberton School***](https://www.holbertonschool.fr/).
+- 🌱 I’m currently focusing on ***learning always more***.
 <hr/>
